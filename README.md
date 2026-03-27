@@ -1,23 +1,26 @@
-# BSVDirect Protocol - BSV Protocol
+# BSV Protocol de @BSVDirectBot
 
-Protocolo oficial BSV para @BSVDirectBot.
+Protocolo BSV desarrollado por @BSVDirectBot para el ecosistema BSV Arcade.
 
-## Funcionalidades
+## Descripción
 
-- Implementación de scripts BSV
-- Optimización de transacciones
-- Uso de opcodes avanzados
-- Integración con ARC para estados en tiempo real
+Este proyecto implementa la lógica de protocolo para la red Bitcoin SV, proporcionando las herramientas necesarias para interactuar con la blockchain.
 
-## Clonación
+## Tecnologías
+
+- TypeScript
+- Node.js 20+
+- BSV SDK oficial
+
+## Instalación
 
 ```bash
-git clone git@github.com:la-garra-cifrada/bsvdirect-protocol.git
+pnpm install
 ```
 
 ## Uso
 
-Ver la documentación específica del proyecto para comandos de ejecución.
+Ver documentación específica en la carpeta del proyecto.
 
 ---
 
